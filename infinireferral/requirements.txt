@@ -1,0 +1,5 @@
+pysocks
+beautifulsoup4
+stem
+dotenv
+urllib
