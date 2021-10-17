@@ -1,17 +1,12 @@
 import html
 import http
 import urllib
-import pysocks
+import socks
 import socket
 import requests
 import urllib.request
 
-from dotenv import load_dotenv
-load_dotenv()
-
 import os
-token = os.environ.get("api-token")
-
 #Set number of times to loop program
 #num = input("Enter desired amount of requests: \n")
 num = 20
