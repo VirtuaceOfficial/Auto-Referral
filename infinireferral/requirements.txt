@@ -1,5 +1,3 @@
-pysocks
+socks
 beautifulsoup4
 stem
-dotenv
-urllib
